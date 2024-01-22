@@ -1,6 +1,6 @@
 # Web Analog Clock
 
-Welcome to the Web Analog Clock project! This simple web application displays an analog clock with the current time in India, along with the date and a seconds timer. You can check it out live [here](https://subhoshreep.github.io/WebAnalogClock.github.io/).
+Welcome to the Web Analog Clock project! This simple web application displays an analog clock with the current time in India, along with the date and a seconds timer. You can check it out live [here](https://thriving-smakager-e9dd54.netlify.app/).
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to the Web Analog Clock project! This simple web application displays an
 
 ## Live Demo
 
-Visit the live demo: [Web Analog Clock](https://subhoshreep.github.io/WebAnalogClock.github.io/)
+Visit the live demo: [Web Analog Clock](https://thriving-smakager-e9dd54.netlify.app/)
 
 ## How to Use
 
